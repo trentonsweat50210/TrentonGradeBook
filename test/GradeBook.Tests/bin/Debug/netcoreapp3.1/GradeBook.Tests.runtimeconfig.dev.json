@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/trenton.sweat/.dotnet/store/|arch|/|tfm|",
+      "/Users/trenton.sweat/.nuget/packages"
+    ]
+  }
+}
